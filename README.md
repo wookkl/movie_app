@@ -1,3 +1,3 @@
 # Movie App
 
-This is simple movie-app by using react js
+This is simple movie-app by using react
