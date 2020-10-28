@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wookkl.github.io/movie_app/static/css/main.7b83aa9c.chunk.css",
+    "main.js": "/wookkl.github.io/movie_app/static/js/main.e716c3e8.chunk.js",
+    "main.js.map": "/wookkl.github.io/movie_app/static/js/main.e716c3e8.chunk.js.map",
+    "runtime-main.js": "/wookkl.github.io/movie_app/static/js/runtime-main.c1ce7056.js",
+    "runtime-main.js.map": "/wookkl.github.io/movie_app/static/js/runtime-main.c1ce7056.js.map",
+    "static/js/2.e533ec29.chunk.js": "/wookkl.github.io/movie_app/static/js/2.e533ec29.chunk.js",
+    "static/js/2.e533ec29.chunk.js.map": "/wookkl.github.io/movie_app/static/js/2.e533ec29.chunk.js.map",
+    "index.html": "/wookkl.github.io/movie_app/index.html",
+    "precache-manifest.1d4cb520bad664ff96c508e3a1b27df1.js": "/wookkl.github.io/movie_app/precache-manifest.1d4cb520bad664ff96c508e3a1b27df1.js",
+    "service-worker.js": "/wookkl.github.io/movie_app/service-worker.js",
+    "static/css/main.7b83aa9c.chunk.css.map": "/wookkl.github.io/movie_app/static/css/main.7b83aa9c.chunk.css.map",
+    "static/js/2.e533ec29.chunk.js.LICENSE.txt": "/wookkl.github.io/movie_app/static/js/2.e533ec29.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1ce7056.js",
+    "static/js/2.e533ec29.chunk.js",
+    "static/css/main.7b83aa9c.chunk.css",
+    "static/js/main.e716c3e8.chunk.js"
+  ]
+}
