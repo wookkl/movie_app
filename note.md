@@ -92,3 +92,8 @@ getMovies = async() =>{
 const movies = await axios.get("");
 }
 getMoives라는 함수는 비동기 함수이기 때문에 끝날때 까지 기다려야함 블로킹됨
+
+## className
+
+JSX안에 있는 태그 클래스는 className으로 정의 해줘야함!
+안그럼 react가 혼란스러워함
