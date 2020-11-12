@@ -1,5 +1,7 @@
-.movies__movie {
+.movies a {
   width: 45%;
+}
+.movies__movie {
   display: flex;
   background-color: white;
   margin: 35px;

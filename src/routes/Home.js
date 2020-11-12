@@ -32,7 +32,7 @@ class Home extends React.Component{
             <div className="movies">
             {movies.map(movie => (
                 <Movie
-                key={movie.id}  
+                id={movie.id}  
                 year = {movie.year}
                 title = {movie.title} 
                 summary = {movie.summary} 
