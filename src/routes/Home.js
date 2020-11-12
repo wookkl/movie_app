@@ -21,7 +21,8 @@ class Home extends React.Component{
 	}
 	
   render(){
-	const {isLoading,movies} = this.state;
+  const {isLoading,movies} = this.state;
+  console.log(movies);
 	return (
         <section className="container">
         {isLoading?(
@@ -32,7 +33,8 @@ class Home extends React.Component{
             <div className="movies">
             {movies.map(movie => (
                 <Movie
-                id={movie.id}  
+                key={movie.id}  
+                id={movie.id}
                 year = {movie.year}
                 title = {movie.title} 
                 summary = {movie.summary} 

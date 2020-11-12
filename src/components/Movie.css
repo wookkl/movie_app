@@ -1,5 +1,6 @@
 .movies a {
   width: 45%;
+  text-decoration: none;
 }
 .movies__movie {
   display: flex;

@@ -11,7 +11,7 @@ function Movie({id, year, title, summary, poster, genres}) {
                 year,
                 title,
                 summary,
-                poster,
+                poster, 
                 genres,
             }
         }}> 
